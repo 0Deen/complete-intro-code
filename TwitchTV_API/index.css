@@ -1,0 +1,29 @@
+.block {
+  font-family: 'Song Myung', serif;
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    padding: 5%;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 1.5em;
+    padding-bottom: 2%;
+  font-size:145%;
+ 
+    }
+  
+  .spacer {
+    padding: 3%;
+  }
+  
+  body {
+    background: url('http://i.imgur.com/FVtV9dX.png') center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+a{
+  color:white;
+}

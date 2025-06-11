@@ -1,0 +1,66 @@
+.gameBoard{
+    /*background-color: red;*/
+       width:372px;
+       height: 372px;
+       margin:  auto;
+  
+  
+}
+
+row {
+   /* background-color:Blue;*/
+    clear:both;
+    overflow:hidden;
+    margin:  auto;
+}
+
+.square{
+    float: left;
+   background: rgba(255, 255, 255, .9);
+    width: 122px;
+    height: 122px;
+   border: 1px solid black;
+   cursor: pointer;
+   text-align:center;
+   font-size: 100px;
+   -moz-box-shadow: 8px 8px 15px #000; 
+ -webkit-box-shadow: 8px 8px 15px #000; 
+ box-shadow: 8px 8px 15px #000; 
+  
+}
+
+.ex{
+ background-color:white;   
+  margin:1%;
+}
+
+.oh{
+    background-color:white;   
+}
+    
+body {
+    background: no-repeat center center fixed;
+    background: url(https://i.pinimg.com/originals/27/c3/41/27c341ea8d860408d0c6348930c55b5b.jpg) ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.spacer {
+  padding: 5%;
+  text-align: center;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+   color: white;
+   font: 3em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
+  
+}
+
+.btn{
+      text-align: center;
+      -moz-box-shadow: 8px 8px 15px #000; 
+ -webkit-box-shadow: 8px 8px 15px #000; 
+ box-shadow: 8px 8px 15px #000; 
+
+     
+} 
