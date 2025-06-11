@@ -1,8 +1,8 @@
 
-# FreeCodeCamp Legacy Certification Projects
+# complete Introduction to coding. Boom
 
 ## Overview
-This repository contains a collection of projects that are part of the FreeCodeCamp legacy certification. These projects are created to help improve your web development skills and understanding of various web technologies. Feel free to explore, use, and contribute to these projects.
+This repository contains a collection of projects that are part of the Coding introduction certification. These projects are created to help improve your web development skills and understanding of various web technologies. Feel free to explore, use, and contribute to these projects.
 
 ## Table of Contents
 - [Project List](#project-list)
@@ -32,7 +32,7 @@ This repository contains a collection of projects that are part of the FreeCodeC
 To get started with these projects, clone the repository and navigate to the project folder.
 
 ```sh
-git clone https://github.com/sanchit0496/freecodecamp-legacy-projects.git
+git clone https://github.com/0Deen/complete-intro-code
 cd repository-name
 # Navigate to individual project folders for specific instructions
 ```
